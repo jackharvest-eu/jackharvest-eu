@@ -1,6 +1,10 @@
 # 💫 About Me:
 Hey there! I'm Jack, a 17-year-old developer working for Nova, a Danish private company. We focus on doing more with coding than everyone else does. I'm passionate about Java development and always looking to improve my skills.
 
+I started coding when I was 13, building small games and utilities. Now I work on enterprise-level Java applications, focusing on performance optimization and clean architecture. When I'm not coding, you'll find me contributing to open-source projects or mentoring junior developers in our community Discord server.
+
+> 🌙 **Pro tip**: This profile respects your system preferences! Viewing in dark mode for optimal late-night coding sessions is recommended.
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/jackharvest) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jackharvest) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jackharvest) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jackharvest) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/jackharvest) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/jackharvest) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@jackharvest) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/jackharvest) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/jackharvest) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@jackharvest) 
 
@@ -20,6 +24,8 @@ Hey there! I'm Jack, a 17-year-old developer working for Nova, a Danish private 
 [![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)](https://kafka.apache.org/downloads)
 [![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)](https://www.thymeleaf.org/download.html)
 
+I've been working with Java for over 4 years now. My specialty is building robust backend systems with Spring Boot and implementing efficient data access layers with Hibernate. I'm certified in Java SE 11 Developer and currently preparing for the Spring Professional certification.
+
 ## Other Technologies
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)](https://www.lua.org/download.html)
@@ -29,6 +35,8 @@ Hey there! I'm Jack, a 17-year-old developer working for Nova, a Danish private 
 [![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)](https://httpd.apache.org/download.cgi)
 [![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)](https://mariadb.org/download/)
 
+While Java is my primary language, I enjoy working with Python for data analysis and automation tasks. I've also built several game mods using Lua and developed front-end interfaces with JavaScript.
+
 ## Databases & Cloud
 [![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://dev.mysql.com/downloads/)
 [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/download/)
@@ -37,6 +45,14 @@ Hey there! I'm Jack, a 17-year-old developer working for Nova, a Danish private 
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/getting-started/)
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/products/docker-desktop/)
 [![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/docs/tasks/tools/)
+
+I'm experienced in designing and optimizing database schemas for high-performance applications. Recently, I've been focusing on containerization with Docker and orchestration with Kubernetes for our microservices architecture.
+
+# 🚀 Current Projects
+
+- **Enterprise Resource Planning System**: Developing a modular ERP solution for small businesses using Spring Boot and React
+- **Performance Monitoring Tool**: Building a lightweight Java agent for monitoring application performance metrics
+- **Open Source Contributions**: Active contributor to several Java libraries and frameworks
 
 # 📫 How to reach me
 <div align="center">
