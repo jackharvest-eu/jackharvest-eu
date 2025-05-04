@@ -1,5 +1,5 @@
 # 💫 About Me:
-Well, yeah, my name is Jack. I am 17 years old. I work for Nova, a Danish private company. We focus on doing more with coding than everyone else does.
+Well, yeah, my name is Jack. I am 17 years old. I work for Nova, a Danish private company. We focus on doing more with coding than everyone else does. I'm passionate about software development and constantly learning new technologies. In my free time, I contribute to open-source projects and enjoy solving complex programming challenges. My goal is to create innovative solutions that make a positive impact on people's lives through technology.
 
 
 ## 🌐 Socials:
@@ -7,12 +7,3 @@ Well, yeah, my name is Jack. I am 17 years old. I work for Nova, a Danish privat
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jackharvest-eu&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=jackharvest-eu&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jackharvest-eu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
